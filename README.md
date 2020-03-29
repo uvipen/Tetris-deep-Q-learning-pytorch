@@ -5,7 +5,7 @@
 Here is my python source code for training an agent to play Tetris. It could be seen as a very basic example of Reinforcement Learning's application.
 <p align="center">
   <img src="demo/tetris.gif" width=600><br/>
-  <i>Camera app demo</i>
+  <i>Tetris demo</i>
 </p>
 
 The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)

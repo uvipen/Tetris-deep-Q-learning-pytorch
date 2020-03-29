@@ -8,6 +8,8 @@ Here is my python source code for training an agent to play Tetris. It could be 
   <i>Camera app demo</i>
 </p>
 
+The demo could also be found at [youtube demo](https://youtu.be/g96x6uATAR8)
+
 ## How to use my code
 
 With my code, you can:
